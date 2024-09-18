@@ -1,0 +1,9 @@
+miodemi
+gestionar una matriz de notas de alumnos y materias:
+
+__init__: Inicializa una lista vacía para almacenar la matriz de alumnos.
+Tamaño_Matriz: Solicita al usuario que ingrese el número de filas (alumnos) y columnas (materias) de la matriz.
+Crear_Matriz: Genera una matriz de tamaño filas x columnas con notas aleatorias entre 0 y 100.
+Asignar_Valor: Solicita al usuario el ID de un alumno y una materia para buscar su nota.
+Buscar_nota: Busca y muestra la nota del alumno en la materia especificada.
+Finalmente, la instancia key ejecuta los métodos en secuencia para crear la matriz y buscar una nota específica.
